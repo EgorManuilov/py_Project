@@ -1,9 +1,11 @@
 def sum():
-    a = int()
-    b = int()
-    return a + b
+    a = 3
+    b = 5
+    sum = a + b
+    print(sum)
 
-def sub():
-    a = int()
-    b = int()
-    return a - b
+def diff():
+    a = 10
+    b = 5
+    diff = a - b
+    print(diff)
